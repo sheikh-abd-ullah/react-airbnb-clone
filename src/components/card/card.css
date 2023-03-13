@@ -1,0 +1,52 @@
+.card{
+    width: 176px;
+    font-size: small;
+    margin: auto;
+}
+
+.person-image{
+    width: 100%;
+}
+
+.star{
+    width: 15px;
+    margin-bottom: 3px;
+}
+
+.star-section{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.space{
+    margin: 0 5px;
+}
+
+.grey{
+    color: #6b6b6b;
+}
+.margining{
+    margin: 5px 0;
+}
+
+.card-para{
+    font-size: smaller;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.badge{
+    position: absolute;
+    padding: 5px;
+    background-color: antiquewhite;
+    font-size: smaller;
+    color: rgb(51, 51, 51);
+}
+
+.green{
+    background-color: green;
+    color: antiquewhite;
+}
